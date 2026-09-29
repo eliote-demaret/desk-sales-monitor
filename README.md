@@ -1,5 +1,5 @@
 # Moniteur du sales dérivés
-
+   🔗 **Application en ligne :** https://desk-sales-monitor-7ypxmnwoxcucp4grphyqwy.streamlit.app/
 **Projet personnel en Python.** Une application qui lit les **données de marché en direct** (actions, options, change),
 calcule les indicateurs qu'un desk regarde chaque matin (volatilité, skew…) et **propose automatiquement des idées
 de produits dérivés adaptées à chaque profil de client**, avec les chiffres, les risques et le pitch à dire au téléphone.
